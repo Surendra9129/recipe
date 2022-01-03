@@ -1,0 +1,26 @@
+{
+  "recipe": [
+    {
+      "id": "1",
+      "Title": "mango_juce",
+      "ingredient": "['suger','mango','milk','water']",
+      "coocking_time": "1hr",
+      "image":"https://images.pexels.com/photos/8211179/pexels-photo-8211179.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "id": "2",
+        "Title": "chicken",
+        "ingredient": "['onion','garlic','oil','water']",
+        "coocking_time": "1hr",
+        "image":"https://images.pexels.com/photos/5718024/pexels-photo-5718024.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      },
+      {
+        "id": "3",
+        "Title": "tea",
+        "ingredient": "['tea','xey','milk','water']",
+        "coocking_time": "1hr",
+        "image":"https://images.pexels.com/photos/1187317/pexels-photo-1187317.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      }
+  
+  ]
+}
