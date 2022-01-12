@@ -34,11 +34,12 @@ const RCP_form = () => {
     return (
         <div>
             <form onSubmit={sendData}>
+                <h3>Add Recipe</h3>
                 <label htmlFor="">Title</label>
                 <input type="text" name="Title" id="" placeholder='add recipe' onChange={handlechange}/> <br />
-                <label htmlFor="ingredient"></label>
+                <label htmlFor="ingredient">ingred</label>
                 <input type="text" name='ingredient' placeholder='add ingredient'  onChange={handlechange}/> <br />
-                <label htmlFor="CoockTime"></label>
+                <label htmlFor="CoockTime">C_time</label>
                 <input type="text" name='coocking_time' placeholder='enter time to cook'  onChange={handlechange}/><br />
                 <input type="file" /> 
                 <input type="submit" />

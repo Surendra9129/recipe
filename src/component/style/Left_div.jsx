@@ -7,7 +7,8 @@ export const Left_div=styled.div`
  height: 300px;
  border: 1px solid black;
  margin-left: 10%;
- margin-top: 0%;
-display: inline-block;
+ margin-bottom: 5%;
+ float: left;
+
 
 `

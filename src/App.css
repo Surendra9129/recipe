@@ -2,3 +2,12 @@ img{
     width: 20%;
     height: 20%;
 }
+
+.mid{
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10%;
+}
+.mid>div>img{
+    width: 200%;
+    height: 100%;
+}
